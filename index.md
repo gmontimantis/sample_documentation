@@ -8,6 +8,6 @@ layout: default
 
 This is a sample documentation template.
 
-## Table of Contents
+## Table of Contents (#toc)
 1. [Introduction](#introdution)
 2. [First Page](first_page.md) 
